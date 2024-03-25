@@ -2,8 +2,8 @@ package variable;
 
 public class Var6 {
     public static void main(String[] args) {
-        int a;
-        System.out.println(a);
+//        int a;
+//        System.out.println(a);
 
         /**
          * 변수는 초기화 해야한다.
